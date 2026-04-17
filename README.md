@@ -1,4 +1,4 @@
-# Perfume Shop (LAURA)
+# Perfume Shop
 
 A full-stack perfume shop web application built using React, Node.js, and MongoDB.
 
