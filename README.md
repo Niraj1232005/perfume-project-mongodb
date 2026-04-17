@@ -1,4 +1,4 @@
-# Perfume Shop (VELUNE)
+# Perfume Shop ()
 
 A full-stack perfume shop web application built using React, Node.js, and MongoDB.
 
@@ -16,14 +16,17 @@ A full-stack perfume shop web application built using React, Node.js, and MongoD
 ## How to Run
 
 ### Backend
+```
 cd server
 npm install
 node server.js
-
+```
 ### Frontend
+```
 cd client
 npm install
 npm run dev
+```
 
 ## Note
 - Make sure MongoDB Atlas connection is active
